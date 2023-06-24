@@ -1,0 +1,41 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+ 
+  p{
+    margin: 1rem 0;
+    color: rgb(95, 95, 95);
+  }
+
+  .transaction{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 0.35em;
+    margin: 2rem 0;
+  }
+
+  .user{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .user-pic{
+    height: 4rem;
+    border-radius: 50%;
+  }
+
+  .amount{
+    display: flex;
+    align-items: center;
+  }
+
+  .info{
+    font-size: 0.9rem;
+    margin-bottom: 0;
+  }
+
+  
