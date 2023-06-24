@@ -1,6 +1,6 @@
 import React from 'react'
 import './transaction.css'
-import User from '../../Images/user.jpg'
+
 import transactions from './transactionsMade'
 
 
